@@ -1,12 +1,88 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\MINEDUCYT\\Desktop\\Tareas de Arcides 2025\\Practica 3\\Repositorios\\OneDimensionArray_19796703\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{371A58B3-1795-4C55-889B-A7E49B60580A}|OneDimensionArray_19796703\\OneDimensionArray_19796703.csproj|c:\\users\\mineducyt\\desktop\\tareas de arcides 2025\\practica 3\\repositorios\\onedimensionarray_19796703\\onedimensionarray_19796703\\categoryusearraysessionvariables.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{371A58B3-1795-4C55-889B-A7E49B60580A}|OneDimensionArray_19796703\\OneDimensionArray_19796703.csproj|solutionrelative:onedimensionarray_19796703\\categoryusearraysessionvariables.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{371A58B3-1795-4C55-889B-A7E49B60580A}|OneDimensionArray_19796703\\OneDimensionArray_19796703.csproj|c:\\users\\mineducyt\\desktop\\tareas de arcides 2025\\practica 3\\repositorios\\onedimensionarray_19796703\\onedimensionarray_19796703\\categoryusearraysessionvariables.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{371A58B3-1795-4C55-889B-A7E49B60580A}|OneDimensionArray_19796703\\OneDimensionArray_19796703.csproj|solutionrelative:onedimensionarray_19796703\\categoryusearraysessionvariables.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{371A58B3-1795-4C55-889B-A7E49B60580A}|OneDimensionArray_19796703\\OneDimensionArray_19796703.csproj|C:\\Users\\MINEDUCYT\\Desktop\\Tareas de Arcides 2025\\Practica 3\\Repositorios\\OneDimensionArray_19796703\\onedimensionarray_19796703\\onedmsstring.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{371A58B3-1795-4C55-889B-A7E49B60580A}|OneDimensionArray_19796703\\OneDimensionArray_19796703.csproj|solutionrelative:onedimensionarray_19796703\\onedmsstring.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{371A58B3-1795-4C55-889B-A7E49B60580A}|OneDimensionArray_19796703\\OneDimensionArray_19796703.csproj|c:\\users\\mineducyt\\desktop\\tareas de arcides 2025\\practica 3\\repositorios\\onedimensionarray_19796703\\onedimensionarray_19796703\\onedmsstring.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{371A58B3-1795-4C55-889B-A7E49B60580A}|OneDimensionArray_19796703\\OneDimensionArray_19796703.csproj|solutionrelative:onedimensionarray_19796703\\onedmsstring.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoryUseArraySessionVariables.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\MINEDUCYT\\Desktop\\Tareas de Arcides 2025\\Practica 3\\Repositorios\\OneDimensionArray_19796703\\OneDimensionArray_19796703\\CategoryUseArraySessionVariables.aspx.cs",
+              "RelativeDocumentMoniker": "OneDimensionArray_19796703\\CategoryUseArraySessionVariables.aspx.cs",
+              "ToolTip": "C:\\Users\\MINEDUCYT\\Desktop\\Tareas de Arcides 2025\\Practica 3\\Repositorios\\OneDimensionArray_19796703\\OneDimensionArray_19796703\\CategoryUseArraySessionVariables.aspx.cs",
+              "RelativeToolTip": "OneDimensionArray_19796703\\CategoryUseArraySessionVariables.aspx.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAIA3wBcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T14:53:28.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoryUseArraySessionVariables.aspx",
+              "DocumentMoniker": "C:\\Users\\MINEDUCYT\\Desktop\\Tareas de Arcides 2025\\Practica 3\\Repositorios\\OneDimensionArray_19796703\\OneDimensionArray_19796703\\CategoryUseArraySessionVariables.aspx",
+              "RelativeDocumentMoniker": "OneDimensionArray_19796703\\CategoryUseArraySessionVariables.aspx",
+              "ToolTip": "C:\\Users\\MINEDUCYT\\Desktop\\Tareas de Arcides 2025\\Practica 3\\Repositorios\\OneDimensionArray_19796703\\OneDimensionArray_19796703\\CategoryUseArraySessionVariables.aspx",
+              "RelativeToolTip": "OneDimensionArray_19796703\\CategoryUseArraySessionVariables.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-02-21T14:50:23.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OneDmsString.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\MINEDUCYT\\Desktop\\Tareas de Arcides 2025\\Practica 3\\Repositorios\\OneDimensionArray_19796703\\OneDimensionArray_19796703\\OneDmsString.aspx.cs",
+              "RelativeDocumentMoniker": "OneDimensionArray_19796703\\OneDmsString.aspx.cs",
+              "ToolTip": "C:\\Users\\MINEDUCYT\\Desktop\\Tareas de Arcides 2025\\Practica 3\\Repositorios\\OneDimensionArray_19796703\\OneDimensionArray_19796703\\OneDmsString.aspx.cs",
+              "RelativeToolTip": "OneDimensionArray_19796703\\OneDmsString.aspx.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAiwBkAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T14:39:32.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OneDmsString.aspx",
+              "DocumentMoniker": "C:\\Users\\MINEDUCYT\\Desktop\\Tareas de Arcides 2025\\Practica 3\\Repositorios\\OneDimensionArray_19796703\\OneDimensionArray_19796703\\OneDmsString.aspx",
+              "RelativeDocumentMoniker": "OneDimensionArray_19796703\\OneDmsString.aspx",
+              "ToolTip": "C:\\Users\\MINEDUCYT\\Desktop\\Tareas de Arcides 2025\\Practica 3\\Repositorios\\OneDimensionArray_19796703\\OneDimensionArray_19796703\\OneDmsString.aspx",
+              "RelativeToolTip": "OneDimensionArray_19796703\\OneDmsString.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-02-21T14:38:07.166Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
